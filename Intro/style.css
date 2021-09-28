@@ -1,0 +1,41 @@
+*{
+    background-color: aquamarine;
+    margin: 0;
+}
+
+h1{
+    color: blue;
+    text-align: center;
+}
+
+.allp{
+    font-family: 'Courier New', Courier, monospace;
+    padding: 20px;
+    border: 2px solid blue;
+    margin: 10px;
+}
+
+#p1{
+    background-color: burlywood;
+}
+#p2{
+    background-color: cadetblue;
+    width: 500px;
+    float: right;
+}
+#p3{
+    background-color: cornflowerblue;
+}
+#p4{
+    background-color: crimson;
+}
+
+#SubHeader1{
+    font-style: italic;
+    font-weight: bold;
+    color: lawngreen;
+}
+
+#p4{
+    background-color: lightpink;
+}

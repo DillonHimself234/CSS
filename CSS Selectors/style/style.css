@@ -1,0 +1,93 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#jumbotron{
+    background-color: blanchedalmond;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    text-align: center;
+    background-image: url("https://occ-0-1068-92.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABRUwcbo3_39U7iHtY6_oFa58plfWMY_SEWGEPqKMdFdsGF4n8MF8HOwG9pWjv6c8KoWw-XdKRzehi6XgsdRgH08lX3eC.jpg?r=18c");
+
+}
+#mainHeader{
+    color: white;
+    font-size: 5em;
+}
+
+#headerMessage{
+    font-size: 3em;
+    color: aquamarine;
+}
+
+h1{
+    font-weight: bold;
+}
+
+.articleHeader{
+    background-color: black;
+    color: white;
+}
+.articles{
+    padding: 20px;
+}
+
+.articleHeader, .articleH1, .articleContent, .articleFooter{
+padding: 20px;
+}
+.articleFooter{
+    background-color: blanchedalmond;
+    color: black;
+    font-weight: bold;
+}
+.articles img{
+    display:  block;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-size: auto;
+    background-repeat: no-repeat;
+}
+
+.mainFooter{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+/* NAV BAR */
+.mainNav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+  
+  .active {
+    background-color: #4CAF50;
+  }
+
